@@ -36,4 +36,4 @@ python scraper.py --pages 10 --format xlsx --output my_books
 | A Light in the Attic | 51.77 | 3 | In stock | https://books.toscrape.com/... |
 
 ## Need something similar?
-I build custom scrapers and automation scripts in Python. Find me on Fiverr: *(add your link here)*
+I build custom scrapers and automation scripts in Python. Find me on Fiverr: [*(add your link here)*](https://www.fiverr.com/paolodelu?public_mode=true)
