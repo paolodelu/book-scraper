@@ -1,5 +1,5 @@
 # Book Catalogue Scraper
-
+![Excel output](preview.png)
 A small Python tool that scrapes book data (title, price, rating, availability, URL) from [books.toscrape.com](https://books.toscrape.com), a sandbox site built for scraping practice, and exports it to **CSV** and **Excel**.
 
 ## Features
